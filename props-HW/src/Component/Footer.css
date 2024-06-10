@@ -1,0 +1,76 @@
+.footer {
+    background-color: rgb(78 55 151);
+    color: #fff;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-logo img {
+    width: 150px; 
+}
+.container2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.footer-section {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+.LOGO-CY {
+    text-align: center;
+    margin-top: 20px;
+}
+.LOGO-CY img {
+    width: 150px;
+}
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+}
+.footer-section ul li {
+    margin-bottom: 10px;
+}
+.footer-section ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-section ul li a:hover {
+    text-decoration: underline;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.social-links li {
+    margin-right: 10px;
+}
+
+.social-links li img {
+    width: 24px;
+    height: 24px;
+}
+.TuwaiqAcademy{
+    font-size: 1rem;
+}
